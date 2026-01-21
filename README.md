@@ -1,6 +1,6 @@
 # 🏥 Healthcare Efficiency Analytics Dashboard
 
-![Dashboard Preview]('Screenshot 2026-01-21 141914.png')
+![Dashboard Preview]('Screenshot2026-01-21141914.png')
 
 ## 📌 Project Overview
 This project is an end-to-end business intelligence solution designed to optimize hospital resource allocation and patient flow. By integrating **Python for ETL** and **Power BI for advanced visualization**, the dashboard provides actionable insights into Length of Stay (LOS), departmental bottlenecks, and patient admission trends.
